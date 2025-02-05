@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Helmet } from "react-helmet"; // Import Helmet here
+import { Helmet } from "react-helmet";
 
 const AboutUsPage = () => {
   const [team, setTeam] = useState([]);
